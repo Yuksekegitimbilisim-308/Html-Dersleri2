@@ -1,0 +1,11 @@
+.successbtn{
+    font-weight: bold;
+    color: black;
+}
+.successbtn:hover{
+    color: black;
+}
+.search-input{
+     width: 100px !important;
+    border: solid 1px black;
+}
